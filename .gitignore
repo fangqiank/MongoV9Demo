@@ -1,0 +1,12 @@
+# 构建输出
+**/bin/
+**/obj/
+*.user
+
+# IDE
+.vs/
+.idea/
+
+# 本地专用
+CLAUDE.md
+.env*
