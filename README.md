@@ -3,6 +3,7 @@
 MongoDB 9 新特性学习演示：单个 .NET 10 控制台程序，连接本地 MongoDB 9.0.2 容器，覆盖 join 聚合、服务端哈希、filter 创建方式、BSON 反序列化、聚合管道的两种构建风格，以及 Queryable Encryption 前缀/后缀 filter。
 
 ![架构](mongo9demo-architecture.svg)
+交互版架构图：[mongo9demo-architecture.html](mongo9demo-architecture.html)（下载后浏览器打开：可点节点、追路径、查看源码定位）
 
 ## MongoDB 9.0 新特性总结
 

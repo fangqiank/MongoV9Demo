@@ -10,3 +10,6 @@
 # 本地专用
 CLAUDE.md
 .env*
+
+# archify 临时产物
+.archify/
